@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Ahmed Mansour 👋
 
-<!--
-**ahmedmansourdataanalyst/ahmedmansourdataanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Excel | SQL | Power BI | Python | R
 
-Here are some ideas to get you started:
+I'm passionate about transforming raw data into meaningful insights and supporting data-driven business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+- **Data Analysis:** Excel, SQL, Python, R
+- **Visualization:** Power BI, Tableau
+- **Analytics:** Data Cleaning, EDA, KPI Development, Dashboard Development
+
+### 📊 Featured Projects
+
+**1. Superstore Sales Analysis | Excel & Power BI**
+Sales performance, profitability, and regional analysis.
+
+[View Project](https://github.com/ahmedmansourdataanalyst/Superstore-Sales-Analysis)
+
+**2. AdventureWorks Sales Analysis | Power BI**
+Interactive business intelligence dashboard with advanced DAX measures.
+
+[View Project](https://github.com/ahmedmansourdataanalyst/AdventureWorks-Sales-Analysis)
+
+**3. NorthWind Sales Analysis | Power BI**
+Sales, customer, supplier, and employee performance analysis.
+
+[View Project](https://github.com/ahmedmansourdataanalyst/Northwind-Sales-Analysis)
+
+### 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/ahmed-mansour-955aa0197/)
+- [Portfolio Website](https://ahmedmansourdataanalyst.my.canva.site/ahmed-mansour)
+- Email: Ahmed.Mansour.Dataanalyst@outlook.com
