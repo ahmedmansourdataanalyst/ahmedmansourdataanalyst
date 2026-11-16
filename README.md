@@ -26,6 +26,11 @@ Sales, customer, supplier, and employee performance analysis.
 
 [View Project](https://github.com/ahmedmansourdataanalyst/Northwind-Sales-Analysis)
 
+**4. MLB Data Analysis | SQL**
+Player career, salary, school, and performance analysis.
+
+[View Project](https://github.com/ahmedmansourdataanalyst/MLB-SQL-Data-Analysis)
+
 ### 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/ahmed-mansour-955aa0197/)
 - [Portfolio Website](https://ahmedmansourdataanalyst.my.canva.site/ahmed-mansour)
