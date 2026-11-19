@@ -11,22 +11,27 @@ I'm passionate about transforming raw data into meaningful insights and supporti
 
 ### 📊 Featured Projects
 
-**1. Superstore Sales Analysis | Excel & Power BI**
-Sales performance, profitability, and regional analysis.
+**1. Country Comparison Analysis | Power BI**  
+Economic, demographic, health, and geographic analysis across 191 countries.
 
-[View Project](https://github.com/ahmedmansourdataanalyst/Superstore-Sales-Analysis)
+[View Project](https://github.com/ahmedmansourdataanalyst/Country-Comparison-Analysis)
 
-**2. AdventureWorks Sales Analysis | Power BI**
-Interactive business intelligence dashboard with advanced DAX measures.
-
-[View Project](https://github.com/ahmedmansourdataanalyst/AdventureWorks-Sales-Analysis)
-
-**3. NorthWind Sales Analysis | Power BI**
+**2. NorthWind Sales Analysis | Power BI**
 Sales, customer, supplier, and employee performance analysis.
 
 [View Project](https://github.com/ahmedmansourdataanalyst/Northwind-Sales-Analysis)
 
-**4. MLB Data Analysis | SQL**
+**3. Superstore Sales Analysis | Excel & Power BI**
+Sales performance, profitability, and regional analysis.
+
+[View Project](https://github.com/ahmedmansourdataanalyst/Superstore-Sales-Analysis)
+
+**4. AdventureWorks Sales Analysis | Power BI**
+Interactive business intelligence dashboard with advanced DAX measures.
+
+[View Project](https://github.com/ahmedmansourdataanalyst/AdventureWorks-Sales-Analysis)
+
+**5. MLB Data Analysis | SQL**
 Player career, salary, school, and performance analysis.
 
 [View Project](https://github.com/ahmedmansourdataanalyst/MLB-SQL-Data-Analysis)
